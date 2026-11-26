@@ -1,0 +1,25 @@
+TITLE: Clausewitz in Two Minutes
+VOICE: bm_george
+SAY: Milošević = Milo-sheh-vitch
+
+## IDEA 1 | War Serves Policy
+[quote: War is a mere continuation of policy by other means. | Clausewitz, On War, Book I]
+Clausewitz's most famous line: war is a continuation of policy by other means.
+[map: Kuwait, Baghdad, Riyadh] [year: 1991]
+In 1991, a coalition gathered in Saudi Arabia to free Kuwait from Iraq.
+[move: tanks | 46.0,28.2 > Kuwait | blue] [arrow: 45.2,28.6 > 46.3,30.6 | blue | thick] [counter: 0-100 | hours of ground war]
+After one hundred hours of ground war, it stopped.
+[stamp: Aim achieved | green]
+The aim was to free Kuwait, not to occupy Iraq.
+
+## IDEA 2 | The Trinity
+[custom: magnets | Passion ; the people | Chance ; army and commander | Reason ; government | pull=1]
+He pictured war as an object suspended between three magnets: passion, chance and reason.
+If one force breaks away, as public support did in Vietnam after 1968, the whole war swings with it.
+
+## Lessons
+[bullets: #What to remember | War serves policy | Keep passion, chance and reason in balance | Know when to stop | step]
+Three lessons.
+War serves policy.
+Keep the trinity in balance.
+And know when to stop.
