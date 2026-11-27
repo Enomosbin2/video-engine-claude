@@ -78,6 +78,11 @@ Colours: red, blue, green, gold, ink, purple, grey, brown, orange, olive, white.
 | `[custom: curve \| CULMINATING POINT \| attacker \| defender]` | Strength falling with distance |
 | `[custom: ladder \| Order of strategy \| best \| ... \| worst]` | Ranked options |
 | `[custom: scales \| Left \| Right \| tip=left]` | Balance tipping |
+| `[custom: spiral \| State A \| State B \| step \| step ...]` | Security dilemma: two castles build in turn; each build fills the other side's fear meter; ends "BOTH LESS SAFE" |
+| `[custom: web \| A \| B \| C ... \| shock=B \| title=Shake one, shake all]` | States linked in a web; a shock to one shakes the rest in turn (regional security complex) |
+| `[custom: lift \| ISSUE \| floor 1 \| floor 2 \| floor 3 \| measures=TEXT]` | Securitisation lift: issue rises a floor as the audience turns green; stamp at the top |
+| `[custom: lenses \| Lens ; what it sees \| ... \| subject=TEXT]` | One subject viewed through coloured lenses, one per narration segment |
+| `[custom: rings \| Inner ; note \| Middle ; note \| Outer ; note \| focus=1,2]` | Nested levels (e.g. Waltz's images); rings light up in turn; `focus=` keeps chosen rings lit |
 
 A new animation is one Python function in `customs.py` plus one line in `REGISTRY`. `examples/handcoded/` holds the hand-coded Sun Tzu and Clausewitz videos (the drill, Midway, Spiderweb and so on) to borrow from.
 
